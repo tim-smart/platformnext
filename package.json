@@ -22,5 +22,10 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "typescript": "^5"
+  },
+  "pnpm": {
+    "overrides": {
+      "find-my-way-ts": "0.1.3"
+    }
   }
 }
