@@ -11,7 +11,7 @@
   "dependencies": {
     "@effect/platform": "^0.57.4",
     "effect": "^3.3.5",
-    "next": "14.2.4",
+    "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18"
   },
@@ -22,10 +22,5 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "typescript": "^5"
-  },
-  "pnpm": {
-    "overrides": {
-      "find-my-way-ts": "0.1.3"
-    }
   }
 }
